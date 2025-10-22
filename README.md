@@ -1,6 +1,5 @@
 # HNG13 Stage 1 Task
 
-## Task Overview
 This repository contains a production-grade Bash script (`deploy.sh`) developed for the HNG13 Devops Stage 1 task. The script automates the deployment of a Dockerized application to a remote Linux server, including environment setup, Docker/Nginx configuration, and reverse proxy setup.
 
 
